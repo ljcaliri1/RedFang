@@ -10,11 +10,11 @@ This is a safe, non-malicious, and simulation-only tool. Payloads generated are 
 ## Features
 
 - CLI-based payload generator
-- Supports:
-- Bash reverse shell
-- Netcat shell
-- PowerShell shell
-- Python reverse shell
+- Supports: 
+  - Bash reverse shell
+  - Netcat shell
+  - PowerShell shell
+  - Python reverse shell
 - Custom IP and port arguments
 - Optional output to text file
 - Modular design for future upgrades (obfuscation, encoding, encryption)
